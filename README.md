@@ -134,14 +134,6 @@ https://youtu.be/g033g41hudU
 * AI-driven assistant for dynamic responses
 * Performance optimization for broader device compatibility
 
----
-
-## Author
-
-Aditya Ahuja
-GitHub: https://github.com/aditya-654
-LinkedIn: www.linkedin.com/in/aditya-ahuja-8b164a329
-
 
 
 ---
